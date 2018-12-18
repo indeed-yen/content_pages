@@ -1,0 +1,9 @@
+{
+  "salaries": [
+    { "id": "accountant",
+      "date": "December 16, 2018",
+      "common": "$79,624",
+      "min": "$16,000",
+      "max": "$190,000" }
+  ]
+}
