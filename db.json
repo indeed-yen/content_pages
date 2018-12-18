@@ -2,8 +2,8 @@
   "salaries": [
     { "id": "accountant",
       "date": "December 16, 2018",
-      "common": "$79,624",
-      "min": "$16,000",
-      "max": "$190,000" }
+      "common": "$52,229",
+      "min": "$31,923",
+      "max": "$85,452" }
   ]
 }
